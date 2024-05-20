@@ -12,6 +12,6 @@ Select a collaborative tool to work on the design of your site with your teammat
 
 ## 📝Instructions
 
-Build your designs on a platform that is collaborative and allows you to publish your work for anyone to see.
+Build your designs and/or wireframes on a collaborative platform that allows you to publish your work publicly.
 
-Once you have finished building your designs be sure to enable public visibility and attach the URL to your designs.
+Once you have finished building your designs, be sure to enable public visibility and attach the URL to them.
