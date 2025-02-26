@@ -7,11 +7,11 @@
 	"preview": "https://github.com/4GeeksAcademy/final-project-full-stack/raw/main/docs/assets/preview.png?raw=true",
 	"status": "published",
 	"difficulty": "intermediate",
-	"technologies": ["final-project","scrum","4geeks"],
+	"technologies": ["html-css","javascript","front-end"],
 	"duration" : 1,
 	"description" : {
-    "us":"Create a mockup and establish the fundamental visual parameters that will guide the development of your fullstack web application.",
-    "es":"Crea una maqueta y establece los parámetros visuales fundamentales que orientarán el desarrollo de tu aplicación web fullstack"
+    "us":"Design a mockup and define the key visual guidelines for your fullstack web application. Use collaborative tools to create wireframes and share your work publicly. Ensure your design aligns with user interface and experience principles for a clear, intuitive, and consistent layout.",
+    "es":"Diseña un mockup y define las pautas visuales clave para tu aplicación web fullstack. Usa herramientas colaborativas para crear wireframes y comparte tu trabajo de forma pública. Asegúrate de que tu diseño se alinee con los principios de interfaz y experiencia de usuario para una presentación clara, intuitiva y coherente."
   },
   "projectType": "project",
   "delivery": {
@@ -19,6 +19,9 @@
 			"us": "Once you have finished building the mockups for your project, paste the URL of your mockups here and set their visibility to 'Public' so that they can be seen by everyone.",
 			"es": "Una vez que hayas terminado de construir las maquetas para tu proyecto, pega aquí la URL de tus maquetas y establece su visibilidad a 'Público' para que pueda ser visto por todos."
 		},
-		"formats": ["url"]
+		"formats": ["URL"],
+	  "telemetry": {
+			"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=1695"
+		}
 	}
 }
